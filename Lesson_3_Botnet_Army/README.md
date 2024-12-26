@@ -21,7 +21,6 @@ You'll need to start by generating a Blue Sky API Key. An API Key is a token (a 
 
 [Generate you key by clicking here and signing up for an account](https://blueskyproject.io/tiled/how-to/api-keys.html) 
 
-
 ### Gemini Integration
 The Gemini module is managed in `src/gemini/` and features a basic implementation. 
 
